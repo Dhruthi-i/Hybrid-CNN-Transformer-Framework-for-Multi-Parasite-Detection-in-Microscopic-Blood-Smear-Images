@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Test Accuracy: 0.99
+Macro F1: 0.98
+Plasmodium F1: 0.95
+=======
+Test Accuracy: 0.99
+Macro F1: 0.98
+Plasmodium F1: 0.95
+>>>>>>> ffd3a0440ab87e9fd7749fbcffd28da9e567cbea
